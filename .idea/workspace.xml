@@ -22,14 +22,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "A:/vscode/jamoliddinovabubakr.github.io/img"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/vscode/jamoliddinovabubakr.github.io/img&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="A:\vscode\jamoliddinovabubakr.github.io\img" />
@@ -46,6 +47,8 @@
       <workItem from="1669891453373" duration="12000" />
       <workItem from="1670694395551" duration="996000" />
       <workItem from="1670695819832" duration="4279000" />
+      <workItem from="1670750596797" duration="229000" />
+      <workItem from="1670828069590" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="!!!">
       <created>1670696306166</created>
